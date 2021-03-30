@@ -4,7 +4,7 @@ The idea of this project is to crop the strike out part in the image.
 ## Installation
 
 ```command
-    git clone https://github.com/iotfan90/image_cropping.git
+    git clone https://github.com/jswebguru/image_cropping.git
     python3 -m pip install -r requirements.txt
 ```
 
